@@ -9,11 +9,11 @@ I Always create products that are functional, simple, Unique, Stunning, and Eye 
 
 Skills: / JAVASCRIPT/ WORDPRESS/ HTML / CSS
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Programming language  
-- 💬 Ask me about Web Development 
+👍 🔭 I’m currently working on Fiverr 
+👍 🌱 I’m currently learning Javascript 
+👍 👯 I’m looking to collaborate on GitHub 
+👍 🤔 I’m looking for help with Programming language  
+👍 💬 Ask me about Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TDSajid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tdsajid99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TDSajid99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/td_sajid99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TDSajid99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/md-sajidur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.behance.net/TDSajid99)  
